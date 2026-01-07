@@ -48,13 +48,13 @@
 
   <p>
     <a href="https://wa.me/5575992457948?text=Olá,%20quero%20informações%20sobre%20IPTV" target="_blank">
-      <button>📺 Comprar IPTV</button>
+      <button>📺 Carregar lista expirada</button>
     </a>
   </p>
 
   <p>
     <a href="https://wa.me/5575992457948?text=Olá,%20quero%20licença%20de%20aplicativo%20reprodutor%20de%20vídeo" target="_blank">
-      <button>▶️ Licença de App</button>
+      <button>▶️ Pagar Licença de App</button>
     </a>
   </p>
 
