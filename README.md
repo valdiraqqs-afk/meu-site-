@@ -53,7 +53,7 @@
   </p>
 
   <p>
-    <a href="https://wa.me/55SEUNUMERO?text=Olá,%20quero%20licença%20de%20aplicativo%20reprodutor%20de%20vídeo" target="_blank">
+    <a href="https://wa.me/5575992457948?text=Olá,%20quero%20licença%20de%20aplicativo%20reprodutor%20de%20vídeo" target="_blank">
       <button>▶️ Licença de App</button>
     </a>
   </p>
