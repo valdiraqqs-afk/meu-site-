@@ -41,7 +41,7 @@
     Entre em contato para informações, valores e suporte.
   </p>
   <p>
-    📱 WhatsApp: <strong>SEU NÚMERO AQUI</strong>
+    📱 WhatsApp: <strong>75992457948</strong>
   </p>
 
   <h2>Escolha uma opção</h2>
