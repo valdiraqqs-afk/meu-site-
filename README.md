@@ -47,7 +47,7 @@
   <h2>Escolha uma opção</h2>
 
   <p>
-    <a href="https://wa.me/5575992457948?text=Olá,%20quero%20informações%20sobre%20IPTV" target="_blank">
+    <a href="https://wa.me/5575992457948?text=Olá,%20quero%20pagar meu plano%20de%20IPTV" target="_blank">
       <button>📺 Carregar lista expirada</button>
     </a>
   </p>
