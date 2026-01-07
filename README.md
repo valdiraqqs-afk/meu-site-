@@ -53,7 +53,7 @@
   </p>
 
   <p>
-    <a href="https://wa.me/5575992457948?text=Olá,%20quero%20licença%20de%20aplicativo%20reprodutor%20de%20vídeo" target="_blank">
+    <a href="https://wa.me/5575992457948?text=Olá,%20quero%20pagar a%20liceca%20do aplicativo%20%20de%20ok?" target="_blank">
       <button>▶️ Pagar Licença de App</button>
     </a>
   </p>
