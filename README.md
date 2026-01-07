@@ -1,2 +1,2 @@
 # midia-net
-seja bem vindo 
+sejam bem vindos
