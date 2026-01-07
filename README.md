@@ -24,12 +24,12 @@
 
   <p>
     ▶️ <strong>Licença de aplicativos reprodutores de vídeo</strong><br>
-    Licenças compatíveis com smartphone, TV Box e Smart TV.
+    Aplicativos compatíveis com smartphone, fire stik,TV Box e Smart TV.
   </p>
 
   <h2>Suporte</h2>
   <ul>
-    <li>Ativação</li>
+    <li>Ativação,lista e apps</li>
     <li>Dúvidas de uso</li>
     <li>Orientações básicas</li>
     <li>Instalação de aplicativos em smartphone</li>
